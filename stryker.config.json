@@ -1,0 +1,21 @@
+{
+  "$schema": "https://stryker-mutator.io/json-schema/v2/stryker-config.json",
+  "packageManager": "npm",
+  "reporters": [
+    "html",
+    "clear-text",
+    "progress"
+  ],
+  "testRunner": "jest",
+  "coverageAnalysis": "perTest",
+  "mutate": [
+    "commentController.js"
+  ],
+  "jest": {
+    "projectType": "custom",
+    "config": {
+      "testEnvironment": "node"
+    },
+    "enableFindRelatedTests": true
+  }
+}
