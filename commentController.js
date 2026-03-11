@@ -12,7 +12,6 @@ class CommentController {
       throw new Error('Invalid text length: must be between 3 and 300 characters');
     }
 
-    // Prohibited characters: ", ', ; . ( ) % and space
     const prohibitedChars = /[",';. ()%]/;
     if (prohibitedChars.test(text)) {
       throw new Error('Invalid text: contains prohibited characters');

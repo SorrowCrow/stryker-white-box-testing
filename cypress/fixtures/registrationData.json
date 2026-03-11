@@ -1,0 +1,14 @@
+[
+  {
+    "email": "simple_1@test.com",
+    "password": "Password123!",
+    "question": "Mother's maiden name?",
+    "answer": "bca"
+  },
+  {
+    "email": "simple_2@test.com",
+    "password": "Password123!",
+    "question": "Mother's maiden name?",
+    "answer": "abc"
+  }
+]

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1773243889110" clover="3.2.0">
+  <project timestamp="1773243889110" name="All files">
+    <metrics statements="16" coveredstatements="16" conditionals="14" coveredconditionals="14" methods="2" coveredmethods="2" elements="32" coveredelements="32" complexity="0" loc="16" ncloc="16" packages="1" files="1" classes="1"/>
+    <file name="commentController.js" path="/Users/user/repos/controllerTest/commentController.js">
+      <metrics statements="16" coveredstatements="16" conditionals="14" coveredconditionals="14" methods="2" coveredmethods="2"/>
+      <line num="3" count="25" type="stmt"/>
+      <line num="7" count="25" type="cond" truecount="2" falsecount="0"/>
+      <line num="8" count="2" type="stmt"/>
+      <line num="11" count="23" type="cond" truecount="4" falsecount="0"/>
+      <line num="12" count="2" type="stmt"/>
+      <line num="16" count="21" type="stmt"/>
+      <line num="17" count="21" type="cond" truecount="2" falsecount="0"/>
+      <line num="18" count="8" type="stmt"/>
+      <line num="21" count="13" type="cond" truecount="2" falsecount="0"/>
+      <line num="22" count="5" type="stmt"/>
+      <line num="25" count="8" type="cond" truecount="4" falsecount="0"/>
+      <line num="26" count="2" type="stmt"/>
+      <line num="29" count="6" type="stmt"/>
+      <line num="35" count="6" type="stmt"/>
+      <line num="36" count="6" type="stmt"/>
+      <line num="40" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>

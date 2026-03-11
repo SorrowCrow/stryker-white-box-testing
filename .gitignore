@@ -2,7 +2,6 @@
 node_modules/
 
 # Testing and Coverage
-coverage/
 .stryker-tmp/
 
 # Environment and Logs
